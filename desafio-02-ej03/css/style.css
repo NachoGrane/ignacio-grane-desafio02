@@ -1,0 +1,27 @@
+*{
+  font-family: 'Lucida Sans',
+    'Lucida Sans Regular',
+    'Lucida Grande',
+    'Lucida Sans Unicode',
+    Geneva,
+    Verdana,
+    sans-serif;
+}
+
+h1{
+  color: #BB5397;
+  font-weight: 400;
+  letter-spacing: 10px;
+  font-size: 44px;
+}
+
+h2{
+  color: #BB5397;
+  font-weight: 400;
+  letter-spacing: 10px;
+}
+
+p{
+  color: #6281C1;
+  line-height: 25px;
+}

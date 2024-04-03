@@ -1,0 +1,64 @@
+:root{
+    --c-aspiradora: #E6CBBF;
+    --c-celulares : #A1C1CB;
+    --c-consolas: #BCBDBF;
+    --c-hometheater:#8D94A1;
+    --c-televisores: #B2B2AA;
+}
+
+body{
+    background-color: #273238;
+}
+
+h1{
+    font-family: Impact, Charcoal, sans-serif;
+    font-weight: 500;
+    font-size: 64px;
+    color: #698593;
+    text-align: center;
+    padding: 0px 20px 0px 20px;
+    background-color: white;
+}
+
+h2{
+    font-family: Arial,
+        Gadget,
+        sans-serif;
+    font-style: italic;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 20px;
+}
+
+p{
+    font-family: 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
+    color: #c0c0c0;
+    
+}
+
+img{
+    border: 5px solid;
+    margin-left: 40px
+}
+
+.c-aspiradora{
+    color: var(--c-aspiradora);
+    border-color: var(--c-aspiradora);
+}
+.c-celulares{
+    color: var(--c-celulares);
+    border-color: var(--c-celulares);
+}
+.c-consolas{
+    color: var(--c-consolas);
+    border-color: var(--c-consolas);
+}
+.c-hometheaters{
+    color: var(--c-hometheater);
+    border-color: var(--c-hometheater);
+}
+.c-televisores{
+    color: var(--c-televisores);
+    border-color: var(--c-televisores);
+}
+
